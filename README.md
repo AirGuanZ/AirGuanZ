@@ -1,4 +1,6 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=AirGuanZ&show_icons=true)
+<p align="center">
+  <img width="494" src="https://github-readme-stats.vercel.app/api?username=AirGuanZ&count_private=true&show_icons=true&hide_title=true" alt="logo">
+</p>
 
 <!--
 **AirGuanZ/AirGuanZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
