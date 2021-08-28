@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=AirGuanZ&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=AirGuanZ&show_icons=true&hide=issues,prs)
 
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AirGuanZ&repo=Atrc)](https://github.com/AirGuanZ/Atrc)
